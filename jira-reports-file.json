@@ -1,0 +1,80 @@
+{
+    "project": "Mediabrands AdOps - Mediabrands",
+  
+    "firstDayToReportAt": "16/04/A18",
+  
+    "week1": {
+      "monday": {
+        "daily": {
+          "timeSpentJIRA": "1h",
+          "comment": "Daily and sync",
+          "startTime": "9h 30m"
+        },
+        "planning": {
+          "timeSpentJIRA": "1h",
+          "comment": "Planning",
+          "startTime": "9h 30m"
+        },
+        "testing": {
+          "timeSpentJIRA": "7h",
+          "comment": "Testing"
+        }
+      },
+  
+      "tuesday": {
+        "daily": {
+          "timeSpentJIRA": "15m",
+          "comment": "Daily",
+          "startTime": "9h 30m"
+        },
+        "testing": {
+          "timeSpentJIRA": "7h 45m",
+          "comment": "Testing",
+          "startTime": "9h 30m"
+        }
+      },
+
+      "wednesday": {
+        "daily": {
+          "timeSpentJIRA": "1h",
+          "comment": "Daily and sync",
+          "startTime": "9h 30m"
+        },
+        "testing": {
+          "timeSpentJIRA": "7h",
+          "comment": "Testing",
+          "startTime": "9h 30m"
+        }
+      },
+
+      "thursday": {
+        "daily": {
+          "timeSpentJIRA": "1h",
+          "comment": "Daily and sync test",
+          "startTime": "9h 30m"
+        },
+        "testing": {
+          "timeSpentJIRA": "7h",
+          "comment": "Testing test",
+          "startTime": "9h 30m"
+        }
+      },
+
+      "friday": {
+        "daily": {
+          "timeSpentJIRA": "1h",
+          "comment": "Daily and sync",
+          "startTime": "9h 30m"
+        },
+        "testing": {
+          "timeSpentJIRA": "7h",
+          "comment": "Testing",
+          "startTime": "9h 30m"
+        }
+      }
+    },
+  
+    "week2": {
+  
+    }
+  }
